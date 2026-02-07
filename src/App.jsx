@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import './App.css'
-import Photo from './assets/components/photos/photo.jsx'
-import image from './assets/components/photos/images/image-icon.svg'
-import search from './assets/components/photos/images/search-svgrepo-com.svg'
+import Photo from "./components/photos/photo.jsx"
+import image from './components/photos/images/image-icon.svg'
+import search from './components/photos/images/search-svgrepo-com.svg'
 
 
 function App() {
